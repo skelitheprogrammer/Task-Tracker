@@ -1,0 +1,14 @@
+D:\Projects\Task-Tracker\DataAccess.Sqlite\bin\Debug\net8.0\DataAccess.Sqlite.deps.json
+D:\Projects\Task-Tracker\DataAccess.Sqlite\bin\Debug\net8.0\DataAccess.Sqlite.runtimeconfig.json
+D:\Projects\Task-Tracker\DataAccess.Sqlite\bin\Debug\net8.0\DataAccess.Sqlite.dll
+D:\Projects\Task-Tracker\DataAccess.Sqlite\bin\Debug\net8.0\DataAccess.Sqlite.pdb
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.csproj.AssemblyReference.cache
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.AssemblyInfoInputs.cache
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.AssemblyInfo.cs
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.csproj.CoreCompileInputs.cache
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.dll
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\refint\DataAccess.Sqlite.dll
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.pdb
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\DataAccess.Sqlite.genruntimeconfig.cache
+D:\Projects\Task-Tracker\DataAccess.Sqlite\obj\Debug\net8.0\ref\DataAccess.Sqlite.dll

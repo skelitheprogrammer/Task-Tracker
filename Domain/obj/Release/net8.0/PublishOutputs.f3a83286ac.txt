@@ -1,0 +1,3 @@
+D:\Projects\Task-Tracker\publish\Domain.dll
+D:\Projects\Task-Tracker\publish\Domain.deps.json
+D:\Projects\Task-Tracker\publish\Domain.pdb

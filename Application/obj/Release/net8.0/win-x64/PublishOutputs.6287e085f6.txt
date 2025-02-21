@@ -1,0 +1,4 @@
+D:\Projects\Task-Tracker\Build\0.2\Application.pdb
+D:\Projects\Task-Tracker\Build\0.2\e_sqlite3.dll
+D:\Projects\Task-Tracker\Build\0.2\DataAccess.Sqlite.pdb
+D:\Projects\Task-Tracker\Build\0.2\Application.exe
